@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletResponse;
 //Servlet is a Java programming language class 
 //used to extend the capabilities of servers 
 //that host applications accessed by means of 
-//a request-response programming model.
+//a request-response programming model...
 
 //1. extends javax.servlet.http.HttpServlet
 //2. @WebServlet(urlPatterns = "/login.do")
@@ -40,7 +40,7 @@ public class LoginServlet extends HttpServlet {
 		out.println("<title>Yahoo!!!!!!!!</title>");
 		out.println("</head>");
 		out.println("<body>");
-		out.println("My First Servlet");
+		out.println("My First Servlet, yay!");
 		out.println("</body>");
 		out.println("</html>");
 
