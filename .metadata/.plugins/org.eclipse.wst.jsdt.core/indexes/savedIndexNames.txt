@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/mchellmer/Downloads/dev/eclipse/maven-demo/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+754276786.index
+3439702529.index
+1530022847.index
+168653369.index
+705927372.index
+4031308735.index
